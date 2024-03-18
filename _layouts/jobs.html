@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<!-- Wrapper -->
+<section id="wrapper">
+  <header>
+    <div class="inner">
+      <h2>{{ page.title }}</h2>
+      <p>{{ page.description }} </p>
+    </div>
+  </header>
+
+  {% assign jobs = site.pages | where:"job",true | sort:"order" %}
+  {% for job in jobs %}
+  {% assign is_alt = forloop.index | modulo:2 %}
+  {% capture alt %}{% if is_alt == 0 %} alt{% endif %}{% endcapture %}
+  <!-- feature-{{ forloop.index }} -->
+  <section id="job-{{ forloop.index }}" class="wrapper{{ alt }} spotlight style{{ forloop.index }}">
+    <div class="inner">
+      <div class="content" style="text-align: left;">
+        {{ job.content }}
+      </div>
+    </div>
+  </section>
+  {% endfor %}
+</section>

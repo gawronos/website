@@ -2,10 +2,12 @@
 layout: page
 featured: true
 title: Innowacyjna i nowoczesna edukacja
-description: Unicode sprowadza do Polski  motodyka nauczania uznanej w Europie Środkowo-Wschodniej szkoły kształtujca profesjonalistów zajmujących się oprogramowaniem. Naszym celem jest kreowanie prawdziwych profesjonalistów w świecie programowania. <br/><strong>Dla nas, podobnie jak dla całej branży IT, najważniejsze są  umiejętności praktyczne</strong>.
+description: Unicode sprowadza do Polski metodyka nauczania uznanej w Europie Środkowo-Wschodniej szkoły kształtujca profesjonalistów zajmujących się oprogramowaniem. Naszym celem jest kreowanie prawdziwych profesjonalistów w świecie programowania. <br/><strong>Dla nas, podobnie jak dla całej branży IT, najważniejsze są  umiejętności praktyczne</strong>.
 order: 1
 image: images/pic01.jpg
 author: null
+permalink: /school
+
 ---
 
 ### Co
