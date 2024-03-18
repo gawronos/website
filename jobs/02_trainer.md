@@ -3,9 +3,9 @@ job: true
 order: 2
 ---
 
-## Nauczyciel / Trener Programistów
+## Trener Programistów
 
-Jeśli jesteś doświadczonym programistą, który chciałby podzielić się swoją wiedzą i pasją z innymi, dołącz do nas jako Nauczyciel / Trener Programowania!
+Jeśli jesteś doświadczonym programistą, który chciałby podzielić się swoją wiedzą i pasją z innymi, dołącz do nas jako Trener Programowania!
 
 #### Oczekujemy
 
