@@ -9,7 +9,7 @@ Jeśli jesteś doświadczonym programistą, który chciałby podzielić się swo
 
 #### Oczekujemy
 
-- Prowadzenie szkoleń online dla początkujących programistów.
+- Prowadzenia szkoleń online dla początkujących programistów.
 - Specjalizacja w jednym z języków programowania: Java, Python, C#, JavaScript
 - Praktyczne doświadczenie w tworzeniu projektów w nauczanym języku programowania
 - Umiejętność przekładania złożonych koncepcji na język zrozumiały dla początkujących
